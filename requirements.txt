@@ -3,3 +3,4 @@ pymongo==4.3.3
 python-dotenv==0.21.0
 requests==2.26.0
 schedule==1.1.0
+typing_extensions==4.4.0
